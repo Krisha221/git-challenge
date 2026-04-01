@@ -1,0 +1,14 @@
+ "Teach me [t "Teach me [topic] interactively — one task at a time, I'll paste output, correct me, and test me before moving to the next stage."
+
+  Examples:
+  - "Teach me Docker interactively the same way you taught me git"
+  - "Teach me SQL interactively — hands on, one task at a time"
+  - "Teach me Python basics interactively with muscle memory practice"
+
+  The key parts to include in your prompt:
+  1. "one task at a time" — keeps it hands-on
+  2. "I'll paste output" — makes it interactive
+  3. "test me before moving on" — ensures you actually learned before advancing
+  4. "muscle memory practice" — signals you want repetition not just theory
+
+  That's it. Works for anything — Linux commands, Docker, SQL, Python, React, AWS, etc.
